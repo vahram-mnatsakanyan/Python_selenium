@@ -1,0 +1,19 @@
+Negative test case passed! Users can't login wih invalid password.-- 2021-06-16 23:37:07.644270 
+Positive test case passed! Users can login wih valid password. -- 2021-06-16 23:37:13.379917 
+Negative test case passed! Users can't login wih invalid password.-- 2021-06-16 23:38:07.715973 
+Positive test case passed! Users can login wih valid password. -- 2021-06-16 23:38:13.364587 
+Negative test case passed! Users can't login wih invalid password.-- 2021-06-16 23:42:36.033365 
+Positive test case passed! Users can login wih valid password. -- 2021-06-16 23:42:41.807711 
+Negative test case passed! Users can't login wih invalid password.-- 2021-06-17 00:51:04.916012 
+Positive test case passed! Users can login wih valid password. -- 2021-06-17 00:51:10.824850 
+Negative test case passed! Users can't login wih invalid password.-- 2021-06-17 22:54:31.432145 
+Positive test case passed! Users can login wih valid password. -- 2021-06-17 22:54:37.084137 
+Negative test case failed!-- 2021-06-17 23:00:22.094436 
+Positive test case passed! Users can login wih valid password. -- 2021-06-17 23:00:28.012986 
+Negative test case passed! Users can't login wih invalid password.-- 2021-06-17 23:14:14.331485 
+Positive test case passed! Users can login wih valid password. -- 2021-06-17 23:14:20.020205 
+Negative test case passed! Users can't login wih invalid password.-- 2021-06-17 23:17:51.679509 
+Negative test case passed! Users can't login wih invalid password.-- 2021-06-17 23:18:35.451521 
+Positive test case passed! Users can login wih valid password. -- 2021-06-17 23:18:40.166761 
+Negative test case passed! Users can't login wih invalid password.-- 2021-06-17 23:19:48.723837 
+Positive test case passed! Users can login wih valid password. -- 2021-06-17 23:19:53.517981 
