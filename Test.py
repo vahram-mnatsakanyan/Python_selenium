@@ -24,7 +24,6 @@ def negative_test():
     else:
         with open("Test_result.log", 'a') as f:
             f.write("Negative test case failed!-- %s \n" % (datetime.datetime.now()))
-
     time.sleep(2)
 
 
